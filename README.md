@@ -1,6 +1,6 @@
 
 <!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84okk
 -->
 <a href="https://github.com/rinfys/rinfys">
 <img src="https://github.com/rinfys/rinfys/blob/master/generated/overview.svg#gh-dark-mode-only" />
