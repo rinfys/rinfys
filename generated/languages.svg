@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 58.285%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 41.482%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.233%;" class="progress-item"></span>
+<span style="background-color: #A97BFF;width: 63.651%;" class="progress-item"></span><span style="background-color: #3572A5;width: 36.349%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -140,29 +140,20 @@ div.ellipsis {
 
 
 <li style="animation-delay: 0ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Python</span>
-<span class="percent">58.28%</span>
-</li>
-
-
-<li style="animation-delay: 150ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#A97BFF;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Kotlin</span>
-<span class="percent">41.48%</span>
+<span class="percent">63.65%</span>
 </li>
 
 
-<li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
+<li style="animation-delay: 150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Batchfile</span>
-<span class="percent">0.23%</span>
+<span class="lang">Python</span>
+<span class="percent">36.35%</span>
 </li>
 
 
