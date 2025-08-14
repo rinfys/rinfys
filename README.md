@@ -1,12 +1,8 @@
+hey guys!!
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84okk
--->
-<a href="https://github.com/rinfys/rinfys">
-<img src="https://github.com/rinfys/rinfys/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/rinfys/rinfys/blob/master/generated/languages.svg#gh-dark-mode-only" />
+im rinfy! im 17 yeers old and I LOVE coding time to time!!
+i am currently learning cpp!! 
+decent knowledge in kotlin !! and python!!
 
-
-
-
-   
+THATS IT!!!
+BYE!!
